@@ -1,0 +1,21 @@
+{
+    "name": "sunsid/contactform",
+    "description": "One click contact form package for laravel lovers",
+    "type": "laravel",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Suraj Wasnik",
+            "email": "suraj.work0126@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "SunSid\\Contactform\\": "src/"
+        }
+    }
+}
